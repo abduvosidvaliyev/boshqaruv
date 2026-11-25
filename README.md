@@ -1,4 +1,4 @@
-# Boshqaruv Tizimi (DC Management Frontend)
+# Boshqaruv Tizim
 
 **Boshqaruv Tizimi** — korxona, tashkilot va loyihalarni boshqarish, xodimlar faoliyatini nazorat qilish, topshiriqlar (Kanban), moliya, hisobotlar, arizalar hamda real-vaqt rejimida onlayn videokonferensiyalarni amalga oshirishga mo'ljallangan zamonaviy va keng qamrovli boshqaruv platformasi (CRM / ERP).
 
